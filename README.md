@@ -17,6 +17,6 @@ The results from MainResult and MainResultSIM may significantly differ. The resu
 
 
 ## Development Contributorship
-[Junetae Kim](https://github.com/JunetaeKim) developed, trained, and tuned the main- and ablation models. 
-[Eugene Hwang](https://github.com/joyce0215) tuned the main- and ablation models, conducted experiments on model interpretability, performed benchmarking tests, and visualized a scenario-based guideline. 
+[Junetae Kim](https://github.com/JunetaeKim) developed, trained, and tuned the model. 
+[Eugene Hwang](https://github.com/joyce0215) tuned the model and assessed its performance and interpretability. 
 [Jinyoung Kim](https://github.com/sacross93) refactored and structured the code.
