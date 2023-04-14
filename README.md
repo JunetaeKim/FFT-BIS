@@ -13,7 +13,7 @@ The model weights, which were obtained by running ModelTraining.py during the au
 Post-evaluation involves the model's performance and visualization of explanatory power. [MainResult.ipynb](https://github.com/JunetaeKim/FFT-BIS/blob/main/MainResult.ipynb) displays the results based on the actual data used in the study, but it is provided for read-only purposes, as the data cannot be disclosed. Alternatively, we offer an environment for performing post-evaluation using simulated data in [MainResultSIM.ipynb](https://github.com/JunetaeKim/FFT-BIS/blob/main/MainResultSIM.ipynb). You can use the model weights learned by the researcher by loading the provided file in the [ModelResults](https://github.com/JunetaeKim/FFT-BIS/tree/main/ModelResults) folder.
 
 ## Notice
-The results from [MainResult](https://github.com/JunetaeKim/FFT-BIS/blob/main/MainResult.ipynb) and [MainResultSIM](https://github.com/JunetaeKim/FFT-BIS/blob/main/MainResultSIM.ipynb) are significantly different. The results in MainResult are identical to those published in the authors' paper. This difference is due to the use of synthetic data. The actual data were obtained from EEG and BIS at [https://vitaldb.net/](https://vitaldb.net/). 
+The results from [MainResult](https://github.com/JunetaeKim/FFT-BIS/blob/main/MainResult.ipynb) and [MainResultSIM](https://github.com/JunetaeKim/FFT-BIS/blob/main/MainResultSIM.ipynb) are <u>significantly different</u>. The results in MainResult are identical to those published in the authors' paper. This difference is due to the use of synthetic data. The actual data were obtained from EEG and BIS at [https://vitaldb.net/](https://vitaldb.net/). 
 
 
 ## Development Contributorship
