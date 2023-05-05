@@ -1,5 +1,5 @@
 # FFT-BIS
-A deep learning model that applies the attention mechanism to Fourier-transformed EEG signals for predicting and elucidating the Bispectral Index (BIS) in an end-to-end manner.
+A deep learning model that applies the attention mechanism to Fourier-transformed EEG signals for predicting and elucidating the Bispectral Index (BIS) in an end-to-end manner. This study was published in [Artificial Intelligence in Medicine](https://www.sciencedirect.com/science/article/pii/S0933365723000830).
 
 ## Overal Descriptions
 ### Data
